@@ -1,0 +1,8 @@
+D:\aaa\testt\LINAQandLambda\The3LargestNums\bin\Debug\The3LargestNums.exe.config
+D:\aaa\testt\LINAQandLambda\The3LargestNums\bin\Debug\The3LargestNums.exe
+D:\aaa\testt\LINAQandLambda\The3LargestNums\bin\Debug\The3LargestNums.pdb
+D:\aaa\testt\LINAQandLambda\The3LargestNums\obj\Debug\The3LargestNums.csproj.AssemblyReference.cache
+D:\aaa\testt\LINAQandLambda\The3LargestNums\obj\Debug\The3LargestNums.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\LINAQandLambda\The3LargestNums\obj\Debug\The3LargestNums.csproj.CoreCompileInputs.cache
+D:\aaa\testt\LINAQandLambda\The3LargestNums\obj\Debug\The3LargestNums.exe
+D:\aaa\testt\LINAQandLambda\The3LargestNums\obj\Debug\The3LargestNums.pdb

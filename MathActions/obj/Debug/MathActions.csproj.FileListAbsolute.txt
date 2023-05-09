@@ -1,0 +1,8 @@
+D:\aaa\testt\LINAQandLambda\MathActions\bin\Debug\MathActions.exe.config
+D:\aaa\testt\LINAQandLambda\MathActions\bin\Debug\MathActions.exe
+D:\aaa\testt\LINAQandLambda\MathActions\bin\Debug\MathActions.pdb
+D:\aaa\testt\LINAQandLambda\MathActions\obj\Debug\MathActions.csproj.AssemblyReference.cache
+D:\aaa\testt\LINAQandLambda\MathActions\obj\Debug\MathActions.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\LINAQandLambda\MathActions\obj\Debug\MathActions.csproj.CoreCompileInputs.cache
+D:\aaa\testt\LINAQandLambda\MathActions\obj\Debug\MathActions.exe
+D:\aaa\testt\LINAQandLambda\MathActions\obj\Debug\MathActions.pdb

@@ -1,0 +1,8 @@
+D:\aaa\testt\LINAQandLambda\FoldAndSum\bin\Debug\FoldAndSum.exe.config
+D:\aaa\testt\LINAQandLambda\FoldAndSum\bin\Debug\FoldAndSum.exe
+D:\aaa\testt\LINAQandLambda\FoldAndSum\bin\Debug\FoldAndSum.pdb
+D:\aaa\testt\LINAQandLambda\FoldAndSum\obj\Debug\FoldAndSum.csproj.AssemblyReference.cache
+D:\aaa\testt\LINAQandLambda\FoldAndSum\obj\Debug\FoldAndSum.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\LINAQandLambda\FoldAndSum\obj\Debug\FoldAndSum.csproj.CoreCompileInputs.cache
+D:\aaa\testt\LINAQandLambda\FoldAndSum\obj\Debug\FoldAndSum.exe
+D:\aaa\testt\LINAQandLambda\FoldAndSum\obj\Debug\FoldAndSum.pdb

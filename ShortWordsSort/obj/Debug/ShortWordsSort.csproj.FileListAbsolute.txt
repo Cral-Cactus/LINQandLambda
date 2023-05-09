@@ -1,0 +1,8 @@
+D:\aaa\testt\LINAQandLambda\ShortWordsSort\bin\Debug\ShortWordsSort.exe.config
+D:\aaa\testt\LINAQandLambda\ShortWordsSort\bin\Debug\ShortWordsSort.exe
+D:\aaa\testt\LINAQandLambda\ShortWordsSort\bin\Debug\ShortWordsSort.pdb
+D:\aaa\testt\LINAQandLambda\ShortWordsSort\obj\Debug\ShortWordsSort.csproj.AssemblyReference.cache
+D:\aaa\testt\LINAQandLambda\ShortWordsSort\obj\Debug\ShortWordsSort.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\LINAQandLambda\ShortWordsSort\obj\Debug\ShortWordsSort.csproj.CoreCompileInputs.cache
+D:\aaa\testt\LINAQandLambda\ShortWordsSort\obj\Debug\ShortWordsSort.exe
+D:\aaa\testt\LINAQandLambda\ShortWordsSort\obj\Debug\ShortWordsSort.pdb
